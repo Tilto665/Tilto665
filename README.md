@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # `Tilto665`
@@ -32,11 +31,11 @@ Hey! I'm **Tilto665**, a young developer from France 🇫🇷 passionate about p
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![C](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png)
 
 ### Interests
 
@@ -47,9 +46,9 @@ Hey! I'm **Tilto665**, a young developer from France 🇫🇷 passionate about p
 
 ### Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg)
 
 ---
 
@@ -67,16 +66,6 @@ Hey! I'm **Tilto665**, a young developer from France 🇫🇷 passionate about p
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Status |
-|:--|:--|:--:|
-| 🕹️ Pacman-touchscreen | Touchscreen Pacman game | ✅ Completed |
-| 🧱 Brick-breaker | Brick-breaking game | ✅ Completed |
-| 🔑 Steam Token Grabber | Security-related project | ✅ Completed |
-| ⚙️ SLGPlus | School information platform | 🔧 In Development |
-
----
 
 ## 🛡️ ShadowSec Team
 
