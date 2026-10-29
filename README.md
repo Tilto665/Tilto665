@@ -4,7 +4,7 @@
 
 ### Developer · Cybersecurity · Red Team
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Young+Developer;Red+Team+Enthusiast;Python+%26+Low-Level+Programming;Future+Aeronautical+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Young+Developer;Red+Team+Enthusiast;Python+%26+Web+Dev;Future+Aeronautical+Engineer)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tilto665-181717?style=for-the-badge&logo=github)](https://github.com/Tilto665)
 [![France](https://img.shields.io/badge/Location-France-0055A4?style=for-the-badge&logo=france)](#)
@@ -27,28 +27,35 @@ Hey! I'm **Tilto665**, a young developer from France 🇫🇷 passionate about p
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-### Languages
+Languages
 
-![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![C](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png)
+<div align="center">
 
-### Interests
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="42" height="42" alt="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="42" height="42" alt="HTML5"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="42" height="42" alt="CSS3"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="42" height="42" alt="JavaScript"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="42" height="42" alt="C"/>
 
-- Offensive Security & Red Teaming
-- Penetration Testing
-- Low-Level Programming
-- Aeronautics & Engineering
+</div>
 
-### Tools & Environment
+Tools & Environment
 
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="42" height="42" alt="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+
+</div>
 
 ---
 
@@ -81,14 +88,23 @@ I'm part of **ShadowSec**, a team focused on cybersecurity, penetration testing,
 
 ---
 
-## 🖥️ PC Setup
+## 🖥️ PC Specs
 
-```text
-OS          → Linux / Windows
-Editor      → Visual Studio Code
-Languages   → Python · HTML · CSS · JavaScript · C
-Versioning  → Git
-```
+<details>
+<summary><strong>⚙️ View hardware configuration</strong></summary>
+
+<br>
+
+| Component | Hardware / Details |
+|:--|:--|
+| 🧠 **Processor (CPU)** | AMD Ryzen 5 4500 @ 3.60 GHz |
+| 🎮 **Graphics Card (GPU)** | NVIDIA RTX 3050 6 GB |
+| 💾 **Memory (RAM)** | 16 GB DDR4 |
+| 🔌 **Power Supply (PSU)** | 450 W |
+| 🖥️ **Operating Systems** | Windows 10 · Parrot OS Security |
+| 🍓 **Additional Hardware** | Raspberry Pi 4 |
+
+</details>
 
 ---
 
@@ -106,7 +122,7 @@ Versioning  → Git
 
 For questions, collaborations or security-related projects:
 
-**📧 [Contact ShadowSec](#)**
+**📧 [Contact me](contact.Tilto66@proton.me)**
 
 ---
 
